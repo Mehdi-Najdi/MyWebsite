@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>HomeWork</title>
+	<style>
+	body {background-color:#99C0FF;}
+		a:link {
+		color: green;
+		background-color: transparent;
+		text-decoration: none;
+		}
+		a:visited {
+		color: pink;
+		background-color: transparent;
+		text-decoration: none;
+		}
+		a:hover {
+		color: red;
+		background-color: transparent;
+		text-decoration: underline;
+		}
+		a:active {
+		color: yellow;
+		background-color: transparent;
+		text-decoration: underline;
+		}
+		table, th, td {
+		border: 1px solid black;
+		}
+	</style>
+	</head>
+	<body>
+		
+		<!--This is a comment.-->
+		
+		<marquee bgcolor="#70B8FF"><h1><b>Welcome To My Page</b></h1></marquee> 
+		<h2 style="text-align:center">HNC/HND in Computing</h2> 
+		<ol type="1">
+			<li><h4>Data Analytics</h4></li>
+			<ul>
+				<li>What happened?</li>
+				<li>Why it happened?</li>
+				<li>How to prevent it in the future?</li>
+			</ul><br>
+			<li><h4>Network Design & Maintainance</h4></li>
+			<ul>
+				<li>Topologies</li>
+				<li>Cost</li>
+				<li>Support</li>
+			</ul><br>
+			<li><h4>Web Design & Maintainance</h4></li>
+			<ul>
+				<li>Data</li>
+				<li>Style</li>
+				<li>Support</li>
+			</ul><br>
+			<li><h4>Programming</h4></li>
+			<ul>
+				<li>Algorithm</li>
+				<li>Planning</li>
+				<li>Testing</li>
+			</ul>
+		</ol>
+
+		<a href="mailto:someone@example.com">Send Email</a>
+		<br>
+		<br>
+		<table style="width:100%">
+			<tr>
+				<td style="text-align:center">Christiano Ronaldo</td>
+				<td style="text-align:center">Rafae Nadal</td>
+				<td style="text-align:center">novak djokovic</td>
+				<td style="text-align:center">Roger Federer</td>
+			</tr>
+			<tr>
+				<td style="text-align:center"><img src="2.jpg" width="100" height="100" alt="Profile Picture"></td>
+				<td style="text-align:center"><img src="1.jpg" width="130" height="100" alt="Profile Picture"></td>
+				<td style="text-align:center"><img src="6.jpg" width="130" height="100" alt="Profile Picture"></td>
+				<td style="text-align:center"><img src="4.jpg" width="100" height="100" alt="Profile Picture"></td>
+			</tr>
+			<tr>
+				<td style="text-align:center">Portugal</td>
+				<td style="text-align:center">Spain</td>
+				<td style="text-align:center">Serbia</td>
+				<td style="text-align:center">Switzerland</td>
+			</tr>
+		</table>
+	</body>
+</html>

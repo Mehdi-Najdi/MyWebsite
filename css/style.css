@@ -1,0 +1,159 @@
+* {
+	margin: 15;
+	padding: 15;
+}
+
+body {
+	background: #dedede;
+	color: #333333;
+	font-size: 16px;
+	line-height: 2em;
+}
+
+.room1,
+.room2,
+.room3,
+.room4 {
+	border-radius: 50px;
+}
+
+h2 {
+	text-shadow: 1.5px 1.5px 15px;
+	padding-top: 10px;
+}
+
+.wrapper {
+	margin: auto;
+	padding-bottom: 0.5%;
+	width: 80%;
+	background-color: #FFB3CC;
+	border-radius: 20px;
+	box-shadow: 4px 4px 10px rgb(48, 47, 46);
+}
+
+.wrapper_element {
+	margin-left: 35%;
+}
+
+.wrapper_element_textfield {
+	margin-left: 33%;
+}
+
+.buttons ul {
+	list-style: none;
+	display: inline;
+	text-align: center;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	margin: 60px;
+}
+
+.text1 {
+	background-color: #E3E4E6;
+	padding: 0% 2.5%;
+	width: 90%;
+	margin: 10px 10px;
+	margin-left: 2.5%;
+	border-radius: 20px;
+	box-shadow: 4px 4px 10px rgb(48, 47, 46);
+}
+
+.text2 {
+	background-color: #E3E4E6;
+}
+
+.text3 {
+	background-color: #E3E4E6;
+}
+
+.wrapper a:link,
+.wrapper a:visited {
+	background-color: white;
+	color: #47474A;
+	border: 1px;
+	border-radius: 50px;
+	padding: 10px 20px;
+	text-align: center;
+	font-weight: bold;
+	text-decoration: none;
+	display: inline-block;
+}
+
+.wrapper a:hover,
+.wrapper a:active {
+	background-color: #FC4478;
+	color: rgb(36, 36, 36);
+	border: 2px solid #4d4a4a;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	display: inline;
+}
+
+h2 {
+	font-family: 'Salsa', cursive;
+	font-variant: small-caps;
+	color: #47474A;
+	text-align: center;
+}
+
+marquee {
+	font-family: 'Tapestry', cursive;
+	font-variant: small-caps;
+	width: 90%;
+	margin-left: 5%;
+	border-radius: 50px;
+	box-shadow: 4px 4px 10px rgb(45, 45, 45);
+}
+
+.bigbutton {
+	margin-left: 325px;
+	margin-bottom: 10px;
+}
+
+.video iframe {
+	margin: auto;
+	width: 50%;
+	margin-top: 30px;
+	margin-left: 25%;
+	border-radius: 100px;
+	box-shadow: 4px 4px 10px rgb(48, 47, 46);
+}
+
+footer {
+	text-align: left;
+	text-decoration: none;
+	box-shadow: 4px 4px 10px rgb(48, 47, 46);
+	border-radius: 30px;
+	padding-bottom: 20px;
+
+}
+
+footer a:link,
+a:visited {
+	color: #444;
+}
+
+footer a:hover {
+	color: #5a043a;
+	text-shadow: 1.5px 1.5px 10px #FFB3CC;
+}
+
+.sitemap a {
+	text-decoration: none;
+	font-size: 24px;
+	text-transform: uppercase;
+	display: block;
+	text-align: center;
+}
+
+body h3 {
+	text-align: center;
+	text-transform: uppercase;
+	text-shadow: 1.5px 1.5px 10px rgb(96, 96, 95);
+}

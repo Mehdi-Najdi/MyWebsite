@@ -1,0 +1,27 @@
+
+body {
+  background-color:#C7C7C9;
+	color:#47474A;
+}
+
+
+body h5 {
+	text-align: center;
+	text-transform: uppercase;
+	text-shadow: 1.5px 1.5px 5px;
+}
+
+li{
+	list-style: none;
+	text-align: center;
+}
+
+body li a {
+  text-decoration: none;
+  color: #000;
+}
+
+body a:hover{
+	color: #5a043a;
+	text-shadow: 1.5px 1.5px 10px #FFB3CC;
+}

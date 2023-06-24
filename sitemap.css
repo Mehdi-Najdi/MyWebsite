@@ -1,0 +1,22 @@
+* {
+  text-align: center;
+}
+body {
+  background-color:#C7C7C9;
+	color:#47474A;
+	font-size: 16px;
+	line-height: 2em;
+}
+
+body a{
+	color:#47474A;
+	font-size: 16px;
+	line-height: 2em;
+  display: block;
+  text-decoration: none;
+}
+
+body li{
+  display: block;
+  text-decoration: none;
+}
